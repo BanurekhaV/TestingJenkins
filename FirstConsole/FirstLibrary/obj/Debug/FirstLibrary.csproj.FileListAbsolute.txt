@@ -1,0 +1,6 @@
+E:\Astrazeneca\FirstConsole\FirstLibrary\bin\Debug\FirstLibrary.dll
+E:\Astrazeneca\FirstConsole\FirstLibrary\bin\Debug\FirstLibrary.pdb
+E:\Astrazeneca\FirstConsole\FirstLibrary\obj\Debug\FirstLibrary.csprojAssemblyReference.cache
+E:\Astrazeneca\FirstConsole\FirstLibrary\obj\Debug\FirstLibrary.csproj.CoreCompileInputs.cache
+E:\Astrazeneca\FirstConsole\FirstLibrary\obj\Debug\FirstLibrary.dll
+E:\Astrazeneca\FirstConsole\FirstLibrary\obj\Debug\FirstLibrary.pdb

@@ -1,0 +1,10 @@
+E:\Astrazeneca\FirstConsole\FirstConsole\bin\Debug\FirstConsole.exe.config
+E:\Astrazeneca\FirstConsole\FirstConsole\bin\Debug\FirstConsole.exe
+E:\Astrazeneca\FirstConsole\FirstConsole\bin\Debug\FirstConsole.pdb
+E:\Astrazeneca\FirstConsole\FirstConsole\obj\Debug\FirstConsole.csproj.CoreCompileInputs.cache
+E:\Astrazeneca\FirstConsole\FirstConsole\obj\Debug\FirstConsole.exe
+E:\Astrazeneca\FirstConsole\FirstConsole\obj\Debug\FirstConsole.pdb
+E:\Astrazeneca\FirstConsole\FirstConsole\obj\Debug\FirstConsole.csprojAssemblyReference.cache
+E:\Astrazeneca\FirstConsole\FirstConsole\bin\Debug\FirstLibrary.dll
+E:\Astrazeneca\FirstConsole\FirstConsole\bin\Debug\FirstLibrary.pdb
+E:\Astrazeneca\FirstConsole\FirstConsole\obj\Debug\FirstConsole.csproj.CopyComplete
