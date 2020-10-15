@@ -1,0 +1,7 @@
+E:\Astrazeneca\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+E:\Astrazeneca\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+E:\Astrazeneca\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+E:\Astrazeneca\FirstApp\FirstApp\obj\Debug\FirstApp.csprojAssemblyReference.cache
+E:\Astrazeneca\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+E:\Astrazeneca\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+E:\Astrazeneca\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
