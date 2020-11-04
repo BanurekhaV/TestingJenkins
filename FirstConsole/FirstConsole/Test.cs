@@ -46,9 +46,10 @@ namespace FirstConsole
             b = Convert.ToBoolean(Console.ReadLine());//unboxing
             DateTime dt;
             dt = Convert.ToDateTime(Console.ReadLine());//unboxing*/
-            Class1 c = new Class1();
-           c.Welcomemsg("Banurekha");
-            Console.WriteLine(c.Calc(5, 6));
+         //   Class1 c = new Class1();
+         //  c.Welcomemsg("Banurekha");
+          //  Console.WriteLine(c.Calc(5, 6));
+           Console.WriteLine("Hello from Library");
             Console.Read();
 
 
